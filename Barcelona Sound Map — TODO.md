@@ -77,3 +77,4 @@ Barcelona Sound Map — TODO
  - Ran `bundle install` successfully. `libgd-gis` and dependencies installed.
  - Added render script and produced initial map output.
  - Adjusted zoom to 14 to focus on central Barcelona; ensured outputs are saved under `output/` within the project.
+ - Added NoiseScale module with thresholds/colors and tests; created a mock noise overlay renderer to validate points layer integration and icon coloring.
