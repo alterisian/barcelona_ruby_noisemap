@@ -80,3 +80,4 @@ Barcelona Sound Map — TODO
  - Added NoiseScale module with thresholds/colors and tests; created a mock noise overlay renderer to validate points layer integration and icon coloring.
  - Added CSV ingestion (`Soundmap::IO`) with tests; sample CSV-driven overlay renders successfully.
  - Added downloader (`bin/download_noise_data.rb`) and inspector (`bin/inspect_noise_data.rb`) for the official dataset; created `data/raw` and `data/processed` directories.
+ - Added basic RSpec tests: GeoPackage presence (2d-gridded-coverage) and extractor CSV smoke test.

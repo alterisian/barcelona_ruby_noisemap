@@ -19,15 +19,16 @@ GEM
       rspec-support (~> 3.13.0)
     rspec-support (3.13.6)
     ruby-libgd (0.2.3)
+    sqlite3 (2.9.0-x86_64-linux-gnu)
 
 PLATFORMS
-  ruby
   x86_64-linux
 
 DEPENDENCIES
   csv
   libgd-gis
   rspec
+  sqlite3
 
 CHECKSUMS
   csv (3.3.5) sha256=6e5134ac3383ef728b7f02725d9872934f523cb40b961479f69cf3afa6c8e73f
@@ -39,6 +40,7 @@ CHECKSUMS
   rspec-mocks (3.13.7) sha256=0979034e64b1d7a838aaaddf12bf065ea4dc40ef3d4c39f01f93ae2c66c62b1c
   rspec-support (3.13.6) sha256=2e8de3702427eab064c9352fe74488cc12a1bfae887ad8b91cba480ec9f8afb2
   ruby-libgd (0.2.3) sha256=9ddf757d1abcc5d44166e30b3204b95579f561e2ed4f366ef2c5ffa6cc669c50
+  sqlite3 (2.9.0-x86_64-linux-gnu) sha256=72fff9bd750070ba3af695511ba5f0e0a2d8a9206f84869640b3e99dfaf3d5a5
 
 BUNDLED WITH
   4.0.4
