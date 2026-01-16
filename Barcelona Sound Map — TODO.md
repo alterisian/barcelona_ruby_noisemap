@@ -78,3 +78,4 @@ Barcelona Sound Map — TODO
  - Added render script and produced initial map output.
  - Adjusted zoom to 14 to focus on central Barcelona; ensured outputs are saved under `output/` within the project.
  - Added NoiseScale module with thresholds/colors and tests; created a mock noise overlay renderer to validate points layer integration and icon coloring.
+ - Added CSV ingestion (`Soundmap::IO`) with tests; sample CSV-driven overlay renders successfully.

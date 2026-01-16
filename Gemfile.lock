@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    csv (3.3.5)
     diff-lcs (1.6.2)
     libgd-gis (0.2.6)
       ruby-libgd (~> 0.2.1, >= 0.2.1)
@@ -24,10 +25,12 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  csv
   libgd-gis
   rspec
 
 CHECKSUMS
+  csv (3.3.5) sha256=6e5134ac3383ef728b7f02725d9872934f523cb40b961479f69cf3afa6c8e73f
   diff-lcs (1.6.2) sha256=9ae0d2cba7d4df3075fe8cd8602a8604993efc0dfa934cff568969efb1909962
   libgd-gis (0.2.6) sha256=fe5b2748ed4a2293ccc0c12a6be4d69376d114c39df9a8507087babe8ed69b08
   rspec (3.13.2) sha256=206284a08ad798e61f86d7ca3e376718d52c0bc944626b2349266f239f820587
