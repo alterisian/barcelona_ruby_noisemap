@@ -1,6 +1,6 @@
 # Barcelona Sound Map (Ruby)
 
-Progress: ~55% complete
+Progress: ~55% complete — ~3h today, ~15k–30k tokens
 
 This project renders a Barcelona basemap and overlays Strategic Noise Map data using Ruby.
 
