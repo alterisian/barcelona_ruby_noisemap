@@ -1,0 +1,13 @@
+# Cache tiles downloaded by libgd-gis
+/tmp/
+
+# Rendered outputs
+/output/
+
+# Bundler config
+/.bundle/
+
+# Ruby artifacts
+*.gem
+*.rbc
+.byebug_history
